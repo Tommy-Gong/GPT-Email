@@ -30,4 +30,4 @@ async function sendMessage(userMessage) {
 }
 
 
-sendMessage("enter message");
+sendMessage("who are you");
